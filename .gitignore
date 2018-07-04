@@ -67,4 +67,4 @@ fabric.properties
 .idea/sonarlint
 
 #resources
-src/resources
+src/main/resources/
